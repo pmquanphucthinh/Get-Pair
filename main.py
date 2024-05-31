@@ -41,7 +41,6 @@ def fetch_issues():
 
     # API Parameters for filtering issues by label and state
     API_PARAM = {
-        "labels": "Request",
         "state": "open",
     }
 
